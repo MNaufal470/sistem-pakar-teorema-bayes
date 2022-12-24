@@ -1,0 +1,8 @@
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+.flex-col img {
+  width: 100px;
+  margin-bottom: 10px;
+}
